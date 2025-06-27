@@ -1,0 +1,24 @@
+button{
+    color: aliceblue;
+    background-color: rgb(127, 208, 255);
+    border: solid, black;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s
+}
+
+button:hover{
+    background-color: rgb(8, 164, 255);
+}
+
+#h1{
+    text-align: center;
+    font-size: 2em;
+}
+
+div{
+    text-align: center;
+}
